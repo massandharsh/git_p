@@ -1,4 +1,5 @@
 Phone
 Glonass
+BAIDU
 Touch Screen
 Gorilla Glass
